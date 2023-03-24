@@ -14,7 +14,7 @@ export default class NotesView {
             <div class="notes__preview">
                 <input class="notes__title" type="text" placeholder="New Note...">
                 <textarea class="notes__body">Take Note...
-                 <sub style="color='gray'>dear user,you arecurrently using the development-stage website ,we will try to bring the finished piece as soon as possible</sub></textarea>
+               dear user,you arecurrently using the development-stage website ,we will try to bring the finished piece as soon as possible</textarea>
             </div>
         `;
 
