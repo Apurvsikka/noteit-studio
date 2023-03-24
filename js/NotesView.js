@@ -7,7 +7,7 @@ export default class NotesView {
         this.onNoteDelete = onNoteDelete;
         this.root.innerHTML = `
             <div class="notes__sidebar">
-            <h1><img src="favicon.ico">noteIt</h1>
+            <h1><img src="./favicon.ico">noteIt</h1>
                 <button class="notes__add" type="button">Add Note</button>
                 <div class="notes__list"></div>
             </div>
