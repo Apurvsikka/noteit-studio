@@ -15,7 +15,7 @@ export default class NotesView {
                 <input class="notes__title" type="text" placeholder="New Note...">
                 <textarea class="notes__body">Take Note...
                </textarea>
-               dear user,you arecurrently using the development-stage website ,we will try to bring the finished piece as soon as possible
+               <sub>dear user,you are currently using the development-stage website ,we will try to bring the finished piece as soon as possible</sub>
             </div>
         `;
 
